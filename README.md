@@ -46,6 +46,10 @@ Anmerkung: Bitte um Verbesserung wurde bereits an befreundeten Designer geschick
 
 Die Domain *rust-linz.at* wurde für das Meetup bereits gekauft.
 
+### Social Media
+
+* Twitter: [*@rustlinz*](https://twitter.com/rustlinz)
+
 ### Taskliste
 
 In diesem Repository werden die Aufgaben für den Start des Rust Linz Meetups als [GitHub Issues](https://github.com/coding-club-linz/rust-meetup-concept/issues) verwaltet.

@@ -14,10 +14,25 @@ Rust ist noch eine relativ junge Sprache und daher gibt es viele Personen, die e
 
 Die Treffen werden bis auf weiteres wegen Covid-19 online stattfinden. Mittel- bis langfristig sind aber (auch) persönliche Treffen mit Livestreams geplant. Für Onlinemeetings werden die [Zoom-Lizenzen des Coding Club Linz](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md) verwendet.
 
+## Offene Fragen, Diskussionspunkte
+
+### Kommunikationsplattform
+
 Für die Linzer Rustaceans soll es auch zwischen den Treffen eine Möglichkeit geben, in Kontakt zu bleiben. Details TBD. Möglichkeiten:
 
 * Discord Server
 * Slack
+
+### Sprache
+
+Es soll möglichst vielen, interessierten Personen ermöglicht werden, am Meetup teilzunehmen. Erreichen wir dieses Ziel besser mit Kommunikationssprache Deutsch oder Englisch? Sind Mischformen möglich/sinnvoll? Betroffene Themengebiete:
+
+* Webseite
+* Social Media, Newsletter
+* Moderationssprache
+* Vortragssprache
+
+Vorschlag: Generell Englisch (Webseite, schriftliche Kommunikation nach außen), Vortragende können gerne Deutsch sprechen, wenn ihnen das lieber ist.
 
 ## Diverse, organisatorische Themen
 

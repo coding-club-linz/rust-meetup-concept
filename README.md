@@ -14,42 +14,18 @@ Rust ist noch eine relativ junge Sprache und daher gibt es viele Personen, die e
 
 Die Treffen werden bis auf weiteres wegen Covid-19 online stattfinden. Mittel- bis langfristig sind aber (auch) persönliche Treffen mit Livestreams geplant. Für Onlinemeetings werden die [Zoom-Lizenzen des Coding Club Linz](https://github.com/coderdojo-linz/coderdojo-online/blob/master/Zoom.md) verwendet.
 
+## Infos
+
+* Die Domain *rust-linz.at* wurde für das Meetup bereits gekauft. Teaser-Website noch offen ([#12](https://github.com/coding-club-linz/rust-meetup-concept/issues/12))
+* Logos wurden erstellt ([download](https://codingclublinz.sharepoint.com/:f:/g/Dokumente/EmhJ-7t6BsZGlyw9g8DQwyABXdCs6qf5kwzRk3sx_UkfCw?e=A7MxrU))
+* Verteilerliste *info@rust-linz.at* wurde erstellt.
+* Twitteraccount [*rustlinz*](https://twitter.com/rustlinz) wurde erstellt.
+* Englisch wurde als Meetup-Sprache festgelegt ([#6](https://github.com/coding-club-linz/rust-meetup-concept/issues/6))
+* Meetup auf *meetup.com* wurde angelegt ([https://www.meetup.com/de-DE/Rust-Linz/](https://www.meetup.com/de-DE/Rust-Linz/))
+* Call-for-Participation wurde angelegt ([https://sessionize.com/rust-linz/](https://sessionize.com/rust-linz/)). Guest Speaker bei Rust Community angefragt.
+* Termine werden gerade diskutiert ([#9](https://github.com/coding-club-linz/rust-meetup-concept/issues/9))
+* Discord-Server wurde angelegt ([Einladungslink](https://discord.gg/T27Ms2f)). Server muss noch konfiguriert werden ([#13](https://github.com/coding-club-linz/rust-meetup-concept/issues/13))
+
 ## Offene Fragen, Diskussionspunkte
-
-### Kommunikationsplattform
-
-Für die Linzer Rustaceans soll es auch zwischen den Treffen eine Möglichkeit geben, in Kontakt zu bleiben. Details TBD. Möglichkeiten:
-
-* Discord Server
-* Slack
-
-### Sprache
-
-Es soll möglichst vielen, interessierten Personen ermöglicht werden, am Meetup teilzunehmen. Erreichen wir dieses Ziel besser mit Kommunikationssprache Deutsch oder Englisch? Sind Mischformen möglich/sinnvoll? Betroffene Themengebiete:
-
-* Webseite
-* Social Media, Newsletter
-* Moderationssprache
-* Vortragssprache
-
-Vorschlag: Generell Englisch (Webseite, schriftliche Kommunikation nach außen), Vortragende können gerne Deutsch sprechen, wenn ihnen das lieber ist.
-
-## Diverse, organisatorische Themen
-
-### Logo-Entwurf
-
-![Rust Linz Logo](Rust-Linz.svg)
-
-Anmerkung: Bitte um Verbesserung wurde bereits an befreundeten Designer geschickt.
-
-### Domain
-
-Die Domain *rust-linz.at* wurde für das Meetup bereits gekauft.
-
-### Social Media
-
-* Twitter: [*@rustlinz*](https://twitter.com/rustlinz)
-
-### Taskliste
 
 In diesem Repository werden die Aufgaben für den Start des Rust Linz Meetups als [GitHub Issues](https://github.com/coding-club-linz/rust-meetup-concept/issues) verwaltet.

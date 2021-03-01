@@ -1,5 +1,7 @@
 # Rust Meetup Linz
 
+**Rust Meetup is alive and can be found online at [https://rust-linz.at](https://rust-linz.at).** This repository has been used for preparing the meetup. As the meetup has started successfully, this repository was archived.
+
 ## Einleitung
 
 *Rust* ist in den letzten Jahren zu einer beliebten Technologie geworden (vgl. [Stackoverflow Survey 2020](https://insights.stackoverflow.com/survey/2020#technology-most-loved-dreaded-and-wanted-languages)). Viele Entwicklerinnen und Entwickler sind neugierig auf die Sprache und würden gerne mehr darüber erfahren. Darum planen wir vom Coding Club Linz den Start eines Rust Meetups.
